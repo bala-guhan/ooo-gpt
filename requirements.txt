@@ -1,0 +1,6 @@
+streamlit
+random
+numpy
+google.generativeai
+python-dotenv
+time
