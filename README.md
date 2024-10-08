@@ -1,9 +1,4 @@
-# ooo-gpt
-
-Here's the content formatted for direct pasting into your `README.md` file:
-
-```markdown
-# OOO-GPT: Conversational and Image Generational Bot
+# DripAI: Conversational and Image Generational Bot
 
 This is a simple conversational and image generational bot model built using GPT and DALL·E. It allows users to engage in conversational interactions and generate images based on text prompts. The project is built using Python and Streamlit for the web interface.
 
@@ -14,7 +9,7 @@ This is a simple conversational and image generational bot model built using GPT
 To use this project, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/bala-guhan/ooo-gpt/edit/main/README.md
+git clone https://github.com/bala-guhan/ooo-gpt.git
 ```
 
 ### Install Dependencies
@@ -56,4 +51,3 @@ http://localhost:8501
 This project is licensed under the MIT License.
 ```
 
-You can now copy and paste this directly into your `README.md` file. Let me know if you need any changes!
